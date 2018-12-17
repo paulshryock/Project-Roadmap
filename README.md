@@ -36,6 +36,7 @@ Working on your first Pull Request? You can learn how from this *free* series, [
   - In case of sensitive bugs like security vulnerabilities, please contact
     [paul@pshry.com](mailto:paul@pshry.com) directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!
+- Changelog: [https://github.com/paulshryock/Project-Roadmap/blob/master/CHANGELOG.md](https://github.com/paulshryock/Project-Roadmap/blob/master/CHANGELOG.md)
 - Related projects:
   - **Eustace**: [https://github.com/paulshryock/Eustace](https://github.com/paulshryock/Eustace): _Start from scratch without reinventing the wheel_
   - **Myrtle**: [https://github.com/paulshryock/Myrtle](https://github.com/paulshryock/Myrtle): _Start Cockpit from scratch without reinventing the wheel_
