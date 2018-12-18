@@ -1,7 +1,8 @@
 # Project Roadmap
 
 1. Business Goals
-2. Strategy
+1. Strategy
+1. Server Setup
 1. Information Architecture
 	1. Content Audit
 	1. Content Inventory
@@ -11,6 +12,10 @@
 	1. Wireframes
 1. Development
 1. Design
+1. Quality Assurance
+1. Testing & Debugging
+1. Analytics & Reporting
+1. Deployment
 
 ## Business Goals
 
@@ -103,11 +108,11 @@ List all data fields that will exist for each Content Type.
 
 ### User Personas
 
-Realistic examples of target audience members. Lists the user’s name, occupation, education, demographic characteristics, computer/web experience, and site goals or likely tasks.
+Set realistic examples of target audience members. List the user’s name, occupation, education, demographic characteristics, computer/web experience, and site goals or likely tasks.
 
-**Example:**
+#### Examples:
 
-#### Internal
+##### Internal
 
 - Clients: Existing clients who have already hired us
 	- Schedule a Consultation
@@ -129,7 +134,7 @@ Realistic examples of target audience members. Lists the user’s name, occupati
 	- Browse (see our work, learn about our team and expertise)
 	- Share with brand and business unit leaders and managers
 
-#### External
+##### External
 
 - Vendors: External companies (printers, etc.) who deliver services to us
 	- Find email, phone number, and physical address
@@ -150,7 +155,7 @@ Illustrates a sequence of events that a user might go through in order to accomp
 
 ### Site Map
 
-Documents the various pages or page types throughout the site and the user paths to and from them.
+Documents the various pages or page types throughout the site and the user paths to and from them. (Looks like a flow chart.)
 
 ### Wireframes
 
