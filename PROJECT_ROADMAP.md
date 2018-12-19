@@ -1,7 +1,23 @@
 # Project Roadmap
 
-1. Business Goals
-2. Strategy
+1. Discovery
+	1. Stakeholder Interviews
+	1. Business Needs Analysis
+	1. Competitive Analysis
+	1. Observational Analysis
+	1. Process Analysis
+	1. Web Analytics Research
+1. Server Setup (async*)
+	1. Server Installation and Configuration
+		1. Virtual Hosts
+		1. SSL
+		1. Security
+		1. Compression
+		1. Rewrites
+	1. Database (optional**)
+	1. Programming Language(s) (optional)
+	1. Analytics (async)
+	1. Deployment / Build
 1. Information Architecture
 	1. Content Audit
 	1. Content Inventory
@@ -11,10 +27,21 @@
 	1. Wireframes
 1. Development
 1. Design
+	1. Style Guide / Pattern Library (async)
+	1. Sketches / Visual Comps (optional)
+	1. Visual Mockups (optional)
+1. Quality Assurance
+	- Testing
+	- Debugging
+1. Analytics & Reporting
+1. Deployment
+1. Governance
+	1. Content Management
+	1. Editorial Workflow
 
-## Business Goals
+*async: can execute out of order without dependencies
 
-## Strategy
+**optional: not required for every project	
 
 ## Information Architecture
 
@@ -103,11 +130,11 @@ List all data fields that will exist for each Content Type.
 
 ### User Personas
 
-Realistic examples of target audience members. Lists the user’s name, occupation, education, demographic characteristics, computer/web experience, and site goals or likely tasks.
+Set realistic examples of target audience members. List the user’s name, occupation, education, demographic characteristics, computer/web experience, and site goals or likely tasks.
 
-**Example:**
+#### Examples:
 
-#### Internal
+##### Internal
 
 - Clients: Existing clients who have already hired us
 	- Schedule a Consultation
@@ -129,7 +156,7 @@ Realistic examples of target audience members. Lists the user’s name, occupati
 	- Browse (see our work, learn about our team and expertise)
 	- Share with brand and business unit leaders and managers
 
-#### External
+##### External
 
 - Vendors: External companies (printers, etc.) who deliver services to us
 	- Find email, phone number, and physical address
@@ -150,20 +177,8 @@ Illustrates a sequence of events that a user might go through in order to accomp
 
 ### Site Map
 
-Documents the various pages or page types throughout the site and the user paths to and from them.
+Documents the various pages or page types throughout the site and the user paths to and from them. (Looks like a flow chart.)
 
 ### Wireframes
 
 Shows the items on the page, the importance of each item on the page, and the behavior of each item on page. This is not about design/layout choices.
-
-## Development
-
-## Design
-
-## Quality Assurance
-
-## Testing & Debugging
-
-## Analytics & Reporting
-
-## Deployment

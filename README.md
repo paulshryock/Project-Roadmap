@@ -1,7 +1,7 @@
 ![Project Roadmap](https://raw.githubusercontent.com/paulshryock/Eustace/master/favicon.ico)
 
 # Project Roadmap
-> Plan and implement digital projects from scratch without reinventing the wheel
+> Plan and execute digital projects from scratch without reinventing the wheel
 
 ## Quick Start
 
