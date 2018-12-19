@@ -7,7 +7,7 @@ Download or clone this repo into a folder _(i.e. `Project-Roadmap`)_ and open `P
 
 ```shell
 $ git clone https://github.com/paulshryock/Project-Roadmap your-project/Project-Roadmap
-$ cd Project-Roadmap/_docs
+$ cd Project-Roadmap
 $ open PROJECT_ROADMAP.md
 ```
 
