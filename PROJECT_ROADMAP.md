@@ -1,8 +1,23 @@
 # Project Roadmap
 
-1. Business Goals
-1. Strategy
-1. Server Setup
+1. Discovery
+	1. Stakeholder Interviews
+	1. Business Needs Analysis
+	1. Competitive Analysis
+	1. Observational Analysis
+	1. Process Analysis
+	1. Web Analytics Research
+1. Server Setup (async*)
+	1. Server Installation and Configuration
+		1. Virtual Hosts
+		1. SSL
+		1. Security
+		1. Compression
+		1. Rewrites
+	1. Database (optional**)
+	1. Programming Language(s) (optional)
+	1. Analytics (async)
+	1. Deployment / Build
 1. Information Architecture
 	1. Content Audit
 	1. Content Inventory
@@ -12,14 +27,21 @@
 	1. Wireframes
 1. Development
 1. Design
+	1. Style Guide / Pattern Library (async)
+	1. Sketches / Visual Comps (optional)
+	1. Visual Mockups (optional)
 1. Quality Assurance
-1. Testing & Debugging
+	- Testing
+	- Debugging
 1. Analytics & Reporting
 1. Deployment
+1. Governance
+	1. Content Management
+	1. Editorial Workflow
 
-## Business Goals
+*async: can execute out of order without dependencies
 
-## Strategy
+**optional: not required for every project	
 
 ## Information Architecture
 
@@ -160,15 +182,3 @@ Documents the various pages or page types throughout the site and the user paths
 ### Wireframes
 
 Shows the items on the page, the importance of each item on the page, and the behavior of each item on page. This is not about design/layout choices.
-
-## Development
-
-## Design
-
-## Quality Assurance
-
-## Testing & Debugging
-
-## Analytics & Reporting
-
-## Deployment
