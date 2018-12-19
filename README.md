@@ -1,6 +1,8 @@
 # Project Roadmap
 > Plan and execute digital projects from scratch without reinventing the wheel
 
+View the [Project Roadmap](https://github.com/paulshryock/Project-Roadmap/blob/master/PROJECT_ROADMAP.md)
+
 ## Quick Start
 
 Download or clone this repo into a folder _(i.e. `Project-Roadmap`)_ and open `PROJECT_ROADMAP.md`.
