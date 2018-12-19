@@ -7,14 +7,14 @@
 	1. Observational Analysis
 	1. Process Analysis
 	1. Web Analytics Research
-1. Server Setup (async*)
+1. Server Setup (async\*)
 	1. Server Installation and Configuration
 		1. Virtual Hosts
 		1. SSL
 		1. Security
 		1. Compression
 		1. Rewrites
-	1. Database (optional**)
+	1. Database (optional\*\*)
 	1. Programming Language(s) (optional)
 	1. Analytics (async)
 	1. Deployment / Build
@@ -26,22 +26,24 @@
 	1. Site Map
 	1. Wireframes
 1. Development
-1. Design
-	1. Style Guide / Pattern Library (async)
-	1. Sketches / Visual Comps (optional)
-	1. Visual Mockups (optional)
+1. Design (async)
+	1. Mood Board / Style Tile
+	1. Style Guide / Pattern Library
+	1. Sketches / Visual Comps (optional, as-needed in collaboration with Development)
+	1. Visual Mockups (optional, for Stakeholder approval)
+	1. Interactive Prototype (optional, for Stakeholder approval)
 1. Quality Assurance
 	- Testing
 	- Debugging
-1. Analytics & Reporting
 1. Deployment
 1. Governance
 	1. Content Management
 	1. Editorial Workflow
+	1. Analytics & Reporting
 
-*async: can execute out of order without dependencies
+\*async: can execute out of order, parallel to other phases
 
-**optional: not required for every project	
+\*\*optional: not required for every project	
 
 ## Information Architecture
 
