@@ -5,8 +5,13 @@
 	1. Business Needs Analysis
 	1. Competitive Analysis
 	1. Observational Analysis
+	1. Technical Analysis
+		1. Content Management System
+		1. Static Site Generator
+		1. Database
+		1. Programming Language(s)
 	1. Process Analysis
-	1. Web Analytics Research
+	1. Web Analytics Research (async)
 1. Server Setup (async\*)
 	1. Server Installation and Configuration
 		1. Virtual Hosts
