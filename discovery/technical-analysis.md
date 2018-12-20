@@ -24,8 +24,8 @@ Content can be stored in 3 ways:
 
 | Static Site Generator | Content | Open Source | Price | Language |
 |---|---|---|---|---|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Jekyll |  |  |  |  |
+| Eleventy |  |  |  | JavaScript |
+| Hugo |  |  |  |  |
+| Middleman |  |  |  |  |
+| Roots |  |  |  |  |
